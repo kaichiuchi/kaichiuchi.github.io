@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIsTZV9VDt0mfhSUjwc+Wa+mWt5uW57Lae7uGmclJY3g mike@kaichiuchi.dev
